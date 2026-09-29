@@ -8,8 +8,6 @@
 
 A pruned and quantized multilayer perceptron inference accelerator, designed in C++/Vitis HLS, exported as RTL, and attached to a pipelined RV32I core as a memory-mapped peripheral. Based on the techniques in *"An Efficient and Low-Power MLP Accelerator Supporting Structured Pruning, Sparse Activations and Asymmetric Quantization"* (Lin, Chang, Huang, NYCU, AICAS 2021).
 
-<!-- Add: architecture diagram here -->
-<!-- ![Architecture](docs/images/architecture.png) -->
 
 ---
 
@@ -92,7 +90,7 @@ riscv-mlp-accelerator/
 └── README.md
 ```
 
-> Adjust to match your actual layout.
+
 
 ---
 
