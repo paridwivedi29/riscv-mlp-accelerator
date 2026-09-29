@@ -1,8 +1,8 @@
-# riscv-mlp-accelerator
+
 
 # riscv-mlp-accelerator
 
-**INT8/fixed-point quantized MLP accelerator (Vitis HLS) integrated with a RISC-V core over AXI-Lite.**
+**fixed-point quantized MLP accelerator (Vitis HLS) integrated with a RISC-V core over AXI-Lite.**
 
 ![HLS](https://img.shields.io/badge/HLS-Vitis-blue) ![ISA](https://img.shields.io/badge/ISA-RV32I-green) ![FPGA](https://img.shields.io/badge/FPGA-Xilinx-orange) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
